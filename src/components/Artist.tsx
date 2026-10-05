@@ -45,7 +45,7 @@ export default function Artist() {
               CONOCE A G RAION
             </h2>
             <p className="text-white/60 text-base sm:text-lg leading-relaxed mb-6">
-              Artista urbano colombiano que fusiona Latin Trap, Afrobeat y reggae en una
+              Artista urbano colombiano que fusiona Latin Trap, Afrobeat y Reggaeton en una
               experiencia sonora única. Su estilo elegante y callejero se refleja en cada
               producción, creando un universo visual y musical que invita a sentir, conectar
               y quedarse en la misma vibra.
